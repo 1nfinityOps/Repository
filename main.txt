@@ -5,3 +5,5 @@ Este es el inicio del programa jeje
 
 
 Agergamos funcion nueva para navegar
+
+Agergamos interfaz grafica color azul yeye
